@@ -3,6 +3,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Electric vehicle history</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1750047142005668"
+     crossorigin="anonymous"></script>
    </head>
    <body>
 <h1>Electric vehicle history</h1>
